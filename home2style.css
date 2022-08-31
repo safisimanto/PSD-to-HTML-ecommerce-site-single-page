@@ -1,0 +1,422 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	font-family: lato;
+	background: gray;
+}
+.container{
+	width: 1354px;
+	min-height: 600px;
+	background:gray;
+	margin:auto;
+}
+
+header{
+	width: 1354px;
+	height: 670px;
+	background:url('images/georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg');
+	background-size: cover;
+	
+}
+header .top{
+	width:1354px;
+	height: 70px;
+	
+}
+header .top .one{
+	width:600px;
+	height: 70px;
+	float:left;
+	overflow:hidden;
+}
+header .top .one .one-in{
+	padding-top:10px;
+	padding-left:20px;
+	
+}
+
+header .top .two{
+	width:754px;
+	height: 70px;
+	overflow:hidden;
+	
+}
+
+header .top .two .two-in{
+	padding-top:30px;
+	padding-left:; 
+	
+}
+
+header .top .two .two-in ul li .sia{
+	color: #10C9C3;
+}
+
+
+header .top .two .two-in ul li:hover a{
+	color: #10C9C3;
+}
+header .top .two .two-in ul{
+	list-style: none;
+}
+header .top .two .two-in ul li{
+	float: left;
+	padding-left: 15px;
+}
+
+header .top .two .two-in ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+header .bottom {
+	
+	width:1354px;
+	height:600px;
+}
+
+header .bottom .three{
+	padding-top:135px;
+	padding-left:760px;
+}
+header .bottom .three .clr{
+	background:#10C9C3;
+	border:8px solid #10C9C3;
+	
+}
+
+
+
+
+			/* middle */
+
+.middle{
+	width: 1354px;
+	min-height:600px;
+	background:#ffffff;
+}
+
+.middle .one{
+	width: 1354px;
+	min-height:420px;
+	
+}
+.middle .one .a{
+	text-align:center;
+	padding-top:100px;
+}
+
+.middle .two{
+	width: 1354px;
+	height:570px;
+	
+}
+
+
+.middle .two .a{
+	width: 677px;
+	float: left;
+	overflow: hidden;
+	background:#F9F9F9;
+}
+.middle .two .a .a-in{
+	padding-top:160px;
+	padding-left:100px;
+}
+
+
+
+
+.middle .two .b{
+	width:677px;
+	overflow: hidden;
+}
+
+.middle .three{
+	width: 1354px;
+	min-height:240px;
+	background:#10C9C3;
+	
+}
+.middle .three .three-in{
+	padding-top:87px;
+	padding-left:150px;
+	color: #ffffff;
+}
+.middle .three .a{
+	width:195px;
+	height:67px;
+	float:left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .three .b{
+	width:195px;
+	height:67px;
+	float:left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .three .c{
+	width:195px;
+	height:67px;
+	float:left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .three .d{
+	width:195px;
+	height:67px;
+	overflow: hidden;
+	padding-left:30px;
+}
+
+
+
+
+
+.middle .four{
+	width: 1354px;
+	height:600px;
+	background:gray;
+	
+}
+
+.middle .five{
+	width: 1354px;
+	background:#E4E3E1;
+	text-align:center;
+	padding: 50px 0px;
+	
+}
+
+.middle .six{
+	width: 1354px;
+	height:990px;
+	text-align: center;
+	padding-top: 90px;
+	
+}
+
+.middle .six .pic{
+	width: 1170px;
+	height:772px;
+	padding-left: 90px;
+	
+}
+
+
+.middle .seven{
+	width: 1354px;
+	min-height:535px;
+	background:#F3F6FB;
+	
+}
+.middle .seven .seven-in{
+	width:1150px;
+	height:400px;
+	padding-left:100px ;
+	padding-top:124px ;
+	text-align: center;
+}
+
+.middle .seven .seven-in .a{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .b{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .c{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .d{
+	width:241px;
+	height:165px;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .e{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+	padding-top:5px;
+}
+.middle .seven .seven-in .f{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .g{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+.middle .seven .seven-in .h{
+	width:241px;
+	height:165px;
+	float: left;
+	overflow: hidden;
+	padding-left:30px;
+}
+
+
+
+
+
+.middle .eight{
+	width: 1354px;
+	min-height:500px;
+	background:#10C9C3;
+	
+}
+
+.middle .eight .eight-in{
+	width:830px;
+	height:200px;
+	text-align:center;
+	color: #ffffff;
+	font-size:22px;
+	padding-top:180px;
+	padding-left:275px;
+}
+
+
+
+
+.middle .nine{
+	width: 1354px;
+	min-height:200px;
+	
+}
+
+.middle .nine .nine-in{
+	width: 1270px;
+	height: 90px;
+	margin: auto;
+	padding-top: 60px;
+	
+}
+
+.middle .nine .nine-in .a{
+	width:137px;
+	height:85px;
+	float: left;
+	overflow: hidden;
+	margin-left:100px;
+}
+.middle .nine .nine-in .b{
+	width:137px;
+	height:85px;
+	float: left;
+	overflow: hidden;
+	margin-left:100px;
+}
+.middle .nine .nine-in .c{
+	width:137px;
+	height:85px;
+	float: left;
+	overflow: hidden;
+	margin-left:100px;
+}
+.middle .nine .nine-in .d{
+	width:137px;
+	height:85px;
+	float: left;
+	overflow: hidden;
+	margin-left:100px;
+}
+.middle .nine .nine-in .e{
+	width:137px;
+	height:85px;
+	overflow: hidden;
+	margin-left:100px;
+}
+
+
+
+.middle .ten{
+	width: 1354px;
+	min-height:755px;
+	background:#EBF0F6;
+	
+}
+
+.middle .ten .ten-in{
+	text-align: center;
+	padding-top: 100px;
+	
+}
+.middle .ten .ten-in .submit{
+	background: #10C9C3;
+	border: 12px solid #10C9C3;
+	color: #ffffff;
+}
+
+
+			/* footer */
+
+
+.footer{
+	width: 1354px;
+	height:280px ;
+	background:#141414;
+	
+}
+
+.footer .footer-in{
+	color: #ffffff;
+	padding-top:100px;
+	padding-left:100px;
+	
+}
+
+.footer .footer-in .one{
+	width: 450px;
+	float: left;
+	overflow: hidden;
+}
+
+.footer .footer-in .two{
+	width: 300px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .three{
+	width: 110px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .four{
+	width: 190px;
+	float: left;
+	overflow: hidden;
+}
+.footer .footer-in .five{
+	overflow: hidden;
+}		
+			
+			
+			
+			
+	
